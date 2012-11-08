@@ -1,0 +1,79 @@
+{"messages" : [
+  {
+    "id" : 1,
+    "from" : "sales@oldnavy.com",
+    "to" : "jheher@gmail.com",
+    "title": "Hey You!",
+    "message" : "Hey, what's up? You should really buy some of our really cool stuff. It'll make you more attractive!",
+    "sent" : "08/24/2012 15:30:52",
+    "expire" : "09/24/2012",
+    "tags" : ["Hello", "Sexy", "Cool"],
+    "unread" : true
+  },
+  {
+    "id" : 2,
+    "from" : "sales@hermanos.com",
+    "to" : "jheher@gmail.com",
+    "title" : "Buy our chicken!",
+    "message" : "You're gonna love our delicious fried chicken. $1.99 a bucket for a limited time here at Los Pollos Hermanos!",
+    "sent" : "09/26/2012 11:48:11",
+    "expire" : "10/26/2012",
+    "tags" : ["Sale", "Yummy", "Chicken"],
+    "unread" : true
+  },
+  {
+    "id" : 3,
+    "from" : "jheher@gmail.com",
+    "to" : "sales@hermanos.com",
+    "title" : "Buy our chicken!",
+    "message" : "That sounds awesome! Can I bring my friend Jesse?",
+    "sent" : "11/5/2012 09:30:33",
+    "expire" : "12/5/2012",
+    "tags" : ["Sale", "Yummy", "Chicken", "Meth"],
+    "unread" : false
+  },
+  {
+    "id" : 4,
+    "from" : "sales@hermanos.com",
+    "to" : "noone@yahoo.com",
+    "title" : "Buy our chicken!",
+    "message" : "You're gonna love our delicious fried chicken. $1.99 a bucket for a limited time here at Los Pollos Hermanos!",
+    "sent" : "11/5/2012 09:30:33",
+    "expire" : "12/5/2012",
+    "tags" : ["Sale", "Yummy", "Chicken"],
+    "unread" : true
+  },
+  {
+    "id" : 5,
+    "from" : "jheher@gmail.com",
+    "to" : "pr@benandjerrys.com",
+    "title" : "Wavy Gravy",
+    "message" : "Are you kidding me with Wavy Gravy? Hazelnuts? Really? No thank you. However, I would like a free Vermonster.",
+    "sent" : "11/15/2012 09:30:33",
+    "expire" : "12/15/2012",
+    "tags" : ["Ice Cream", "Complaints", "Vermonster"],
+    "unread" : false
+  },
+  {
+    "id" : 6,
+    "from" : "pr@benandjerrys.com",
+    "to" : "jheher@gmail.com",
+    "title" : "Wavy Gravy",
+    "message" : "Yeah, we hate that flavor too. Old people wanted it for some reason and you know they're the only people who vote for these things. Here's a coupon for 15 free Vermonsters. Go crazy.",
+    "sent" : "11/28/2012 09:30:33",
+    "expire" : "12/28/2012",
+    "tags" : ["Free", "Ice Cream", "Vermonster"],
+    "unread" : false
+  },
+  {
+    "id" : 7,
+    "from" : "jheher@gmail.com",
+    "to" : "pr@benandjerrys.com",
+    "title" : "Vermonster",
+    "message" : "Much appreciated. I can't believe I ate the whole thing!",
+    "sent" : "11/29/2012 09:30:33",
+    "expire" : "12/29/2012",
+    "tags" : ["Ice Cream", "Fat", "Diabetes"],
+    "unread" : false
+  }
+]}
